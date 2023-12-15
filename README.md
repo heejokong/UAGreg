@@ -1,4 +1,6 @@
-This is an PyTorch implementation of UAG.
+# Unknown-Aware Graph Regularization for Robust Semi-Supervised Learning from Uncurated Data
+This is the code repository for the AAAI 2024 paper "Unknown-Aware Graph Regularization for Robust Semi-Supervised Learning from Uncurated Data" (PyTorch implementation).
+
 This implementation is based on [Pytorch-FixMatch](https://github.com/kekmodel/FixMatch-pytorch).
 
 ## Usage
